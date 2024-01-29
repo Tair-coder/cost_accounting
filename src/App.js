@@ -50,7 +50,6 @@ const fetchValues = async (userId, setValues) => {
   const resData = await res.json();
   const loadValues = [];
   for (const key in resData) {
-    console.log(key);
     loadValues.push({
       amount: resData[key].amount,
       date: new Date(resData[key].date),
