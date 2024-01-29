@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cost_accounting/static/css/main.09d90110.css",
+    "main.js": "/cost_accounting/static/js/main.78359d73.js",
+    "static/media/rename.svg": "/cost_accounting/static/media/rename.1d712e586ae326a5773f77aed96e6581.svg",
+    "static/media/basket.svg": "/cost_accounting/static/media/basket.10d5748ee6d544107c449fecb9c5b2cb.svg",
+    "index.html": "/cost_accounting/index.html",
+    "main.09d90110.css.map": "/cost_accounting/static/css/main.09d90110.css.map",
+    "main.78359d73.js.map": "/cost_accounting/static/js/main.78359d73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09d90110.css",
+    "static/js/main.78359d73.js"
+  ]
+}
