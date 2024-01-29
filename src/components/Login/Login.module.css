@@ -1,0 +1,17 @@
+.logIn {
+  padding: 1rem;
+  background-color: #aac4d1;
+  margin: 2rem auto;
+  width: 70rem;
+  max-width: 95%;
+}
+.logIn button {
+  font: inherit;
+  cursor: pointer;
+  padding: 1rem 2rem;
+  border: 1px solid #2a5b84;
+  background-color: #2a5b84;
+  color: #fefae1;
+  border-radius: 10px;
+  margin-right: 3px;
+}
